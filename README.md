@@ -1,5 +1,5 @@
 # SerpentNetworking
-C++ MMO Networking SDK for Unreal Engine and Unity
+C++ MMO Networking SDK for Unreal Engine and Unity and All Custom Engines
 
 Commercial Type, Load Balancer supported, and an MMO-Networking project that can handle tens of thousands of players instantly.
 
