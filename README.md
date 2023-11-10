@@ -1,6 +1,6 @@
 # SerpentNetworking
 
-[!] C++ Source Code is not included! Only header files!
+**[!] C++ Source Code is not included! Only header files! FOR SECURITY REASONS**
 
 C++ MMO Networking SDK for Unreal Engine and Unity and All Custom Engines
 
